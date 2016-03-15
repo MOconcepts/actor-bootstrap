@@ -7,10 +7,9 @@ import { ActorSDK, ActorSDKDelegate } from 'actor-sdk';
 
 // Main application config
 const config = {
-  // endpoints: [
-  //   'wss://front1-ws-mtproto-api-rev2.actor.im',
-  //   'wss://front2-ws-mtproto-api-rev2.actor.im'
-  // ],
+   endpoints: [
+     'ws://africhat.im:9080'
+   ],
   // mixpanelAPIKey: 'pasteYourKeyHere',
   // bugsnagApiKey: 'pasteYourKeyHere'
 };

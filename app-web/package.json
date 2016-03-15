@@ -14,10 +14,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/actorapp/ActorSDK-Web.git"
+    "url": "https://github.com/MOconcepts/ActorSDK-Web.git"
   },
   "bugs": {
-    "url": "https://github.com/actorapp/actor-platform/issues"
+    "url": "https://github.com/MOconcepts/actor-platform/issues"
   },
   "ignore": [
     "**/.*",

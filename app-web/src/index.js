@@ -7,11 +7,18 @@ import { ActorSDK, ActorSDKDelegate } from 'actor-sdk';
 
 // Main application config
 const config = {
+<<<<<<< HEAD
    endpoints: [
      'ws://africhat.im:9080'
    ],
   // mixpanelAPIKey: 'pasteYourKeyHere',
   // bugsnagApiKey: 'pasteYourKeyHere'
+=======
+  // endpoints: [
+  //   'wss://front1-ws-mtproto-api-rev2.actor.im',
+  //   'wss://front2-ws-mtproto-api-rev2.actor.im'
+  // ]
+>>>>>>> actorapp/master
 };
 
 // Components overriding

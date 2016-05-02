@@ -8,7 +8,7 @@ import { ActorSDK, ActorSDKDelegate } from 'actor-sdk';
 const config = {
 <<<<<<< HEAD
    endpoints: [
-     'ws://africhat.im:5443'
+     'wss://africhat.im:5443'
    ],
   // mixpanelAPIKey: 'pasteYourKeyHere',
   // bugsnagApiKey: 'pasteYourKeyHere'
